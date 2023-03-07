@@ -5,7 +5,7 @@ A MERN stack based application to fetch data from mongoDB database and render in
 - Install the latest version of node.js(https://nodejs.org/en/).
 - Clone the repository.
 - Install dependencies using "npm install" in both client and server folders.
-- Include .env file provided separately upon request inside the "server" folder.
+- Include .env file(provided separately upon request) inside the "backend" folder.
 - Start the backend server using npm start.
 - Start the frontend using npm start.
 - The app will be available at http://localhost:3000/.
@@ -15,7 +15,7 @@ A MERN stack based application to fetch data from mongoDB database and render in
 ## Data
 The app uses 1 dataset of Alko price list data.
 
-## Note: I used only 1000 journey data due to limitation in storage capacity in my MongoDB database.
+## Note: I used only 1000 records of data due to limitation in storage capacity in my MongoDB database.
 
 
 ## Data Import
