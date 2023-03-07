@@ -1,5 +1,5 @@
 # Data Fetch and Manipulation
-A MERN stack based application to fetch data from mongoDB database and render in the webpage including endpoint to manipulate data.
+A MERN stack based application to fetch data from mongoDB database and render in the webpage. 
 
 ## Running the Project
 - Install the latest version of node.js(https://nodejs.org/en/).
